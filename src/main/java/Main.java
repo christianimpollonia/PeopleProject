@@ -6,7 +6,7 @@ public class Main {
         Person christian = new Person ("Christian", "Impollonia", birthday);
 
         birthday = LocalDate.of(1, 1,13);
-        Person alexander = new Person ("Alexander", "The Second", birthday);
+        Person alexander = new Person ("Alexander", "Thomas", birthday);
 
         birthday = LocalDate.of(1642, 1,2);
         Person laszlo = new Person ("Laszlo", "Cravensworth", birthday);
